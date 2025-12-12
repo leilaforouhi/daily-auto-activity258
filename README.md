@@ -1,4 +1,4 @@
-import datetim
+import datetime
 
 def update_log():
     today = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
